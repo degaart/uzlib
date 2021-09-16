@@ -15,7 +15,7 @@ libs    = ../../lib/libtinf.a
 
 COPT    = -Os
 CFLAGS  = -Wall -I../../src $(COPT)
-LDFLAGS = $(CFLAGS) -s -Wl,-Map,ld.map
+LDFLAGS = $(CFLAGS) -s
 
 .PHONY: all clean
 
