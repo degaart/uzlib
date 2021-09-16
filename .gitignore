@@ -1,3 +1,5 @@
 *.o
 *.map
 *.a
+uzlib.c
+uzlib.h
