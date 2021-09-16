@@ -1,3 +1,17 @@
+uzlib - Amalgamated sources
+======================================================================
+
+This repo provides amalgamated source files for [uzlib](https://github.com/pfalcon/uzlib).
+
+How to use
+----------
+
+Download a release tarball, then include `uzlib.h` and `uzlib.c` into your
+project.
+
+You can generate `uzlib.h` and `uzlib.c` using the `amalgate.sh` script.
+
+
 uzlib - Deflate/Zlib-compatible LZ77 compression/decompression library
 ======================================================================
 
